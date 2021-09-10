@@ -1,5 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
+    color: gray;
 }
 
 
@@ -16,7 +17,6 @@ p{
     background-image: linear-gradient(to right,rgba(247, 165, 12, 0.986), rgba(255, 0, 0, 0.993));
     padding: 15PX 30PX;
     border-radius: 30px;
-    box-shadow: 10px 10px 10px tomato;
     box-shadow: rgb(253, 136, 1) 0px 5px 15px;
     text-decoration: none;
 }
@@ -33,4 +33,45 @@ p{
 .half-width img{
     width: 80%;
 }
+
+#about-bg{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+
+#recipe{
+    text-align: center;
+}
+
+.card{
+    color: black;
+    width: 30%;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.card img{
+    width: 100%;
+}
+
+.shadow{
+    box-shadow: gray 0px 5px 15px;
+}
+
+
+
+.social{
+    width: 30%;
+    color: black;
+    padding: 5% 10%;
+    border-radius: 15px;
+}
+
+#socialBanner{
+    border-radius: 15px;
+    margin: 40px;
+
+}
+
 
