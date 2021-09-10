@@ -1,0 +1,36 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.highlight-color{
+    color: orange;
+}
+
+p{
+    margin-bottom: 50px;
+}
+
+.button{
+    color:white;
+    background-image: linear-gradient(to right,rgba(247, 165, 12, 0.986), rgba(255, 0, 0, 0.993));
+    padding: 15PX 30PX;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px tomato;
+    box-shadow: rgb(253, 136, 1) 0px 5px 15px;
+    text-decoration: none;
+}
+
+.flexlible-container{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding: 60px;
+}
+
+.half-width img{
+    width: 80%;
+}
+
